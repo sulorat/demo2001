@@ -1,0 +1,34 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
+        x:Class="demo2001.MainWindow"
+		x:CompileBindings="False"
+        Title="demo2001">
+	<DockPanel>
+		<Border DockPanel.Dock="Top" BorderBrush="Gray" BorderThickness="3">
+			<StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+				<ComboBox />
+					<Button  Margin="300,0,50,0" Width="120" Click="ToAutorisationButtonClick" Content="Авторизация"/>
+			</StackPanel>
+		</Border>
+		<Border DockPanel.Dock="Left" BorderBrush="Gray" BorderThickness="3">
+			<ListBox Name="EventsListBox">
+				<ListBox.ItemTemplate>
+					<DataTemplate>
+						<StackPanel Orientation="Horizontal">
+							<Border BorderThickness="1" BorderBrush="Gray" Width="100">
+								<Image Width="100" Height="100"/>
+							</Border>
+						<StackPanel>
+								<TextBlock Name="EventTitleTextBlock" Text="{Binding  EventTitle}" Margin="10,0,0,10"/>
+								<TextBlock Name="EventDateTextBlock" Text="{Binding EventStartDate}" Margin="10,0,0,10"/>
+						</StackPanel>
+						</StackPanel>
+					</DataTemplate>
+				</ListBox.ItemTemplate>
+			</ListBox>
+		</Border>
+	</DockPanel>
+</Window>
