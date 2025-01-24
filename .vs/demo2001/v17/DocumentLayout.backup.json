@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\prdb\\source\\repos\\demo2001\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{60D281A7-6B21-43F1-98E5-12C86321B280}|demo2001.csproj|c:\\users\\prdb\\source\\repos\\demo2001\\mainwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
-      "RelativeMoniker": "D:0:0:{60D281A7-6B21-43F1-98E5-12C86321B280}|demo2001.csproj|solutionrelative:mainwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+      "AbsoluteMoniker": "D:0:0:{60D281A7-6B21-43F1-98E5-12C86321B280}|demo2001.csproj|c:\\users\\prdb\\source\\repos\\demo2001\\autorisationwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{60D281A7-6B21-43F1-98E5-12C86321B280}|demo2001.csproj|solutionrelative:autorisationwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60D281A7-6B21-43F1-98E5-12C86321B280}|demo2001.csproj|c:\\users\\prdb\\source\\repos\\demo2001\\autorisationwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60D281A7-6B21-43F1-98E5-12C86321B280}|demo2001.csproj|solutionrelative:autorisationwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{60D281A7-6B21-43F1-98E5-12C86321B280}|demo2001.csproj|c:\\users\\prdb\\source\\repos\\demo2001\\mainwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{60D281A7-6B21-43F1-98E5-12C86321B280}|demo2001.csproj|solutionrelative:mainwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60D281A7-6B21-43F1-98E5-12C86321B280}|demo2001.csproj|c:\\users\\prdb\\source\\repos\\demo2001\\mainwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{60D281A7-6B21-43F1-98E5-12C86321B280}|demo2001.csproj|solutionrelative:mainwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,6 +35,31 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "AutorisationWindow.axaml",
+              "DocumentMoniker": "C:\\Users\\prdb\\source\\repos\\demo2001\\AutorisationWindow.axaml",
+              "RelativeDocumentMoniker": "AutorisationWindow.axaml",
+              "ToolTip": "C:\\Users\\prdb\\source\\repos\\demo2001\\AutorisationWindow.axaml",
+              "RelativeToolTip": "AutorisationWindow.axaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-24T09:04:16.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AutorisationWindow.axaml.cs",
+              "DocumentMoniker": "C:\\Users\\prdb\\source\\repos\\demo2001\\AutorisationWindow.axaml.cs",
+              "RelativeDocumentMoniker": "AutorisationWindow.axaml.cs",
+              "ToolTip": "C:\\Users\\prdb\\source\\repos\\demo2001\\AutorisationWindow.axaml.cs",
+              "RelativeToolTip": "AutorisationWindow.axaml.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAowD4AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T09:04:15.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "MainWindow.axaml",
               "DocumentMoniker": "C:\\Users\\prdb\\source\\repos\\demo2001\\MainWindow.axaml",
               "RelativeDocumentMoniker": "MainWindow.axaml",
@@ -38,13 +71,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "MainWindow.axaml.cs",
               "DocumentMoniker": "C:\\Users\\prdb\\source\\repos\\demo2001\\MainWindow.axaml.cs",
               "RelativeDocumentMoniker": "MainWindow.axaml.cs",
-              "ToolTip": "C:\\Users\\prdb\\source\\repos\\demo2001\\MainWindow.axaml.cs*",
-              "RelativeToolTip": "MainWindow.axaml.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAAJAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\prdb\\source\\repos\\demo2001\\MainWindow.axaml.cs",
+              "RelativeToolTip": "MainWindow.axaml.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAmwD4AAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-22T07:39:17.276Z",
               "EditorCaption": ""

@@ -58,6 +58,9 @@ namespace demo2001
 
         private void ToAutorisationButtonClick(object? sender, RoutedEventArgs e)
         {
+            var autorisWin = new AutorisationWindow();
+            autorisWin.Show();  
+            this.Hide();
         }
     }
 }

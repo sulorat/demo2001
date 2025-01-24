@@ -1,0 +1,17 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450" Width="500" Height="270"
+        x:Class="demo2001.AutorisationWindow"
+        Title="AutorisationWindow">
+	<StackPanel HorizontalAlignment="Center" >
+		<TextBlock Text="Окно авторизации" Margin="0,20,0,20"/>
+		<TextBlock Text="ID" Margin="60,10,0,0"/>
+		<TextBox Name="IdTextBox" Width="150"/>
+		<TextBlock Text="Пароль" Margin="50,10,0,0"/>
+		<TextBox Name="PasswordTextBox" Width="150"/>
+		<Button Name="Autorisation" Width="100" Content="Войти" Margin="25,30,0,0"/>
+		<TextBlock Name="ErrorTextBlock"/>
+	</StackPanel>
+</Window>
