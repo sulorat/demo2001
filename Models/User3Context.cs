@@ -180,7 +180,7 @@ public partial class User3Context : DbContext
             entity.Property(e => e.FirstName).HasMaxLength(100);
             entity.Property(e => e.Gender).HasMaxLength(1);
             entity.Property(e => e.LastName).HasMaxLength(50);
-            entity.Property(e => e.Pasword).HasMaxLength(7);
+            entity.Property(e => e.Pasword).HasMaxLength(20);
             entity.Property(e => e.Patronymic).HasMaxLength(50);
             entity.Property(e => e.Phone).HasMaxLength(20);
             entity.Property(e => e.Photo).HasMaxLength(10);
@@ -192,7 +192,6 @@ public partial class User3Context : DbContext
 
             entity.HasOne(d => d.CountryNavigation).WithMany(p => p.Moderators)
                 .HasForeignKey(d => d.Country)
-                .OnDelete(DeleteBehavior.ClientSetNull)
                 .HasConstraintName("Moderators_Country_fkey");
 
             entity.HasOne(d => d.GenderNavigation).WithMany(p => p.Moderators)
@@ -212,14 +211,13 @@ public partial class User3Context : DbContext
             entity.Property(e => e.FirstName).HasMaxLength(100);
             entity.Property(e => e.Gender).HasMaxLength(1);
             entity.Property(e => e.LastName).HasMaxLength(50);
-            entity.Property(e => e.Pasword).HasMaxLength(7);
+            entity.Property(e => e.Pasword).HasMaxLength(15);
             entity.Property(e => e.Patronymic).HasMaxLength(50);
             entity.Property(e => e.Phone).HasMaxLength(20);
             entity.Property(e => e.Photo).HasMaxLength(10);
 
             entity.HasOne(d => d.CountryNavigation).WithMany(p => p.Organizers)
                 .HasForeignKey(d => d.Country)
-                .OnDelete(DeleteBehavior.ClientSetNull)
                 .HasConstraintName("Organizers_Country_fkey");
 
             entity.HasOne(d => d.GenderNavigation).WithMany(p => p.Organizers)
@@ -239,14 +237,13 @@ public partial class User3Context : DbContext
             entity.Property(e => e.FirstName).HasMaxLength(100);
             entity.Property(e => e.Gender).HasMaxLength(1);
             entity.Property(e => e.LastName).HasMaxLength(50);
-            entity.Property(e => e.Pasword).HasMaxLength(7);
+            entity.Property(e => e.Pasword).HasMaxLength(20);
             entity.Property(e => e.Patronymic).HasMaxLength(50);
             entity.Property(e => e.Phone).HasMaxLength(20);
             entity.Property(e => e.Photo).HasMaxLength(10);
 
             entity.HasOne(d => d.CountryNavigation).WithMany(p => p.Participants)
                 .HasForeignKey(d => d.Country)
-                .OnDelete(DeleteBehavior.ClientSetNull)
                 .HasConstraintName("Participants_Country_fkey");
 
             entity.HasOne(d => d.GenderNavigation).WithMany(p => p.Participants)

@@ -11,7 +11,7 @@
 		<TextBox Name="IdTextBox" Width="150"/>
 		<TextBlock Text="Пароль" Margin="50,10,0,0"/>
 		<TextBox Name="PasswordTextBox" Width="150"/>
-		<Button Name="Autorisation" Width="100" Content="Войти" Margin="25,30,0,0"/>
+		<Button Name="Autorisation" Click="ToLogClick"  Width="100" Content="Войти" Margin="25,30,0,0"/>
 		<TextBlock Name="ErrorTextBlock"/>
 	</StackPanel>
 </Window>

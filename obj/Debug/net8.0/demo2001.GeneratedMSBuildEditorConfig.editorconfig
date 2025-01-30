@@ -27,3 +27,12 @@ build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
 
 [C:/Users/prdb/source/repos/demo2001/MainWindow.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/prdb/source/repos/demo2001/roles/ModeratorWindow.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/prdb/source/repos/demo2001/roles/OrganizerWindow.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/prdb/source/repos/demo2001/roles/ParticipantWindow.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml

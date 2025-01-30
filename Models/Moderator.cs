@@ -23,7 +23,7 @@ public partial class Moderator
 
     public DateOnly Birthday { get; set; }
 
-    public int Country { get; set; }
+    public int? Country { get; set; }
 
     public string Photo { get; set; } = null!;
 
@@ -31,7 +31,7 @@ public partial class Moderator
 
     public virtual Competition CompetitionNavigation { get; set; } = null!;
 
-    public virtual Country CountryNavigation { get; set; } = null!;
+    public virtual Country? CountryNavigation { get; set; }
 
     public virtual Gender GenderNavigation { get; set; } = null!;
 }

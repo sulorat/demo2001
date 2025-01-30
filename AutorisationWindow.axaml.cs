@@ -1,10 +1,7 @@
-using Avalonia;
 using Avalonia.Controls;
 using Avalonia.Interactivity;
-using Avalonia.Markup.Xaml;
 using demo2001.Models;
 using Microsoft.EntityFrameworkCore;
-using System.Net;
 using System.Threading.Tasks;
 
 namespace demo2001;
@@ -31,15 +28,18 @@ public partial class AutorisationWindow : Window
 
         if (participant != null)
         {
-
+            new ParticipantWindow(participant).Show();
+            Hide();
         }
         else if (moderator != null)
         {
-
+            new ModeratorWindow(moderator).Show();
+            Hide();
         }
         else if (organizator != null)
         {
-
+            new OrganizerWindow(organizator).Show();
+            Hide();
         }
 
         else 
@@ -54,7 +54,6 @@ public partial class AutorisationWindow : Window
                 ErrorTextBlock.Text = "";
                 fails = 0;
             }
-
             else
             {
                 ErrorTextBlock.Text = "Неверные учетные данные!";
