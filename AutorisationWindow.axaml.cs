@@ -2,6 +2,7 @@ using Avalonia.Controls;
 using Avalonia.Interactivity;
 using demo2001.Models;
 using Microsoft.EntityFrameworkCore;
+using System.Linq;
 using System.Threading.Tasks;
 
 namespace demo2001;
@@ -25,7 +26,7 @@ public partial class AutorisationWindow : Window
         var participant = await dbContext.Participants.FirstOrDefaultAsync(p => p.Id.ToString() == Id && p.Pasword == Password); 
         var moderator = await dbContext.Moderators.FirstOrDefaultAsync(p => p.Id.ToString() == Id && p.Pasword == Password); 
         var organizator = await dbContext.Organizers.FirstOrDefaultAsync(p => p.Id.ToString() == Id && p.Pasword == Password);
-
+        
         if (participant != null)
         {
             new ParticipantWindow(participant).Show();

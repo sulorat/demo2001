@@ -15,6 +15,9 @@
 				<Button Content="Мерприятия" Width="200" Height="150"/>
 				<Button Content="Участники" Width="200" Height="150"/>
 			</StackPanel>
-			<Button Content="Жюри" Width="200" Height="150" Grid.Column="1" Grid.Row="2" HorizontalAlignment="Center"/>
+			<StackPanel >
+				<Button Content="Жюри" Width="200" Height="150" Grid.Column="1" Grid.Row="2" HorizontalAlignment="Center"/>
+				<Button Content="Создание пользователя" Click="Button_Click"/>
+			</StackPanel>
 	    </Grid>
 </Window>

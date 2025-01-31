@@ -43,4 +43,11 @@ public partial class OrganizerWindow : Window
             greeting = string.Format("Добро пожаловать, {0} {1} {2}", organizer1.LastName,organizer1.FirstName,organizer1.Patronymic);
         }
     }
+
+    private void Button_Click(object? sender, Avalonia.Interactivity.RoutedEventArgs e)
+    {
+        var createWindow = new CreateWindow();
+        createWindow.Show();
+        Hide(); 
+    }
 }

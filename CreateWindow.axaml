@@ -1,0 +1,55 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
+        x:Class="demo2001.CreateWindow"
+		x:CompileBindings="False"
+        Title="CreateWindow">
+	<StackPanel>
+		<TextBlock Text="Регистрация жюри/модератора" HorizontalAlignment="Center" Margin="0,10,0,20"/>
+		<StackPanel Orientation="Horizontal">
+			<StackPanel>
+			<StackPanel Orientation="Horizontal">
+				<TextBlock Text="Id number" Margin="10"/>
+				<TextBox Width="150" Name="IdTextBox"/>
+			</StackPanel>
+			<StackPanel Margin="0,20,0,0" Orientation="Horizontal">
+				<TextBlock Text="ФИО" Margin="10"/>
+				<TextBox Width="150" Name="FioTextBox"/>
+			</StackPanel>
+			<StackPanel Margin="0,20,0,0" Orientation="Horizontal">
+				<TextBlock Text="Пол" Margin="10"/>
+				<ComboBox Width="150" Name="GenderComboBox"/>
+			</StackPanel>
+			<StackPanel Margin="0,20,0,0" Orientation="Horizontal">
+				<TextBlock Text="Роль" Margin="10"/>
+				<ComboBox Width="150" Name="RoleComboBox"/>
+			</StackPanel>
+			<StackPanel Margin="0,20,0,0" Orientation="Horizontal">
+				<TextBlock Text="Email" Margin="10"/>
+				<TextBox Width="150" Name="EmailTextBox"/>
+			</StackPanel>
+			<StackPanel Margin="0,20,0,0" Orientation="Horizontal">
+				<TextBlock Text="Телефон" Margin="10"/>
+				<TextBox Width="150" Name="PhoneTextBox"/>
+			</StackPanel>
+			</StackPanel>
+				<StackPanel Margin="150,0,0,0" >
+					<Image  Width="100" Height="150" />
+					<StackPanel  Margin="0,20,0,0" Orientation="Horizontal">
+						<TextBlock Text="Пароль" Margin="10"/>
+						<TextBox Width="150" Name="PassTextBox"/>
+					</StackPanel>
+					<StackPanel Margin="0,20,0,0" Orientation="Horizontal">
+						<TextBlock Text="Повторите пароль" Margin="10"/>
+						<TextBox Width="150" Name="RePassTextBox"/>
+					</StackPanel>
+					<StackPanel Orientation="Horizontal">
+						<Button Margin="25" Content="Ok" Width="75" HorizontalContentAlignment="Center"/>
+						<Button Margin="0" Content="Отмена" Width="75" HorizontalContentAlignment="Center"/>
+					</StackPanel>
+				</StackPanel>
+		</StackPanel>
+		</StackPanel>
+</Window>

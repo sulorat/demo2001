@@ -11,23 +11,32 @@
       "RelativeMoniker": "D:0:0:{60D281A7-6B21-43F1-98E5-12C86321B280}|demo2001.csproj|solutionrelative:roles\\organizerwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{60D281A7-6B21-43F1-98E5-12C86321B280}|demo2001.csproj|c:\\users\\prdb\\source\\repos\\demo2001\\roles\\participantwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
-      "RelativeMoniker": "D:0:0:{60D281A7-6B21-43F1-98E5-12C86321B280}|demo2001.csproj|solutionrelative:roles\\participantwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+      "AbsoluteMoniker": "D:0:0:{60D281A7-6B21-43F1-98E5-12C86321B280}|demo2001.csproj|c:\\users\\prdb\\source\\repos\\demo2001\\createwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{60D281A7-6B21-43F1-98E5-12C86321B280}|demo2001.csproj|solutionrelative:createwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{60D281A7-6B21-43F1-98E5-12C86321B280}|demo2001.csproj|c:\\users\\prdb\\source\\repos\\demo2001\\roles\\moderatorwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{60D281A7-6B21-43F1-98E5-12C86321B280}|demo2001.csproj|solutionrelative:roles\\moderatorwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{60D281A7-6B21-43F1-98E5-12C86321B280}|demo2001.csproj|c:\\users\\prdb\\source\\repos\\demo2001\\roles\\participantwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{60D281A7-6B21-43F1-98E5-12C86321B280}|demo2001.csproj|solutionrelative:roles\\participantwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{60D281A7-6B21-43F1-98E5-12C86321B280}|demo2001.csproj|c:\\users\\prdb\\source\\repos\\demo2001\\roles\\participantwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{60D281A7-6B21-43F1-98E5-12C86321B280}|demo2001.csproj|solutionrelative:roles\\participantwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{60D281A7-6B21-43F1-98E5-12C86321B280}|demo2001.csproj|c:\\users\\prdb\\source\\repos\\demo2001\\createwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60D281A7-6B21-43F1-98E5-12C86321B280}|demo2001.csproj|solutionrelative:createwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{60D281A7-6B21-43F1-98E5-12C86321B280}|demo2001.csproj|c:\\users\\prdb\\source\\repos\\demo2001\\autorisationwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{60D281A7-6B21-43F1-98E5-12C86321B280}|demo2001.csproj|solutionrelative:autorisationwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60D281A7-6B21-43F1-98E5-12C86321B280}|demo2001.csproj|c:\\users\\prdb\\source\\repos\\demo2001\\mainwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60D281A7-6B21-43F1-98E5-12C86321B280}|demo2001.csproj|solutionrelative:mainwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60D281A7-6B21-43F1-98E5-12C86321B280}|demo2001.csproj|c:\\users\\prdb\\source\\repos\\demo2001\\roles\\moderatorwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60D281A7-6B21-43F1-98E5-12C86321B280}|demo2001.csproj|solutionrelative:roles\\moderatorwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{60D281A7-6B21-43F1-98E5-12C86321B280}|demo2001.csproj|c:\\users\\prdb\\source\\repos\\demo2001\\autorisationwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
@@ -40,10 +49,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{60D281A7-6B21-43F1-98E5-12C86321B280}|demo2001.csproj|c:\\users\\prdb\\source\\repos\\demo2001\\mainwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
       "RelativeMoniker": "D:0:0:{60D281A7-6B21-43F1-98E5-12C86321B280}|demo2001.csproj|solutionrelative:mainwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{60D281A7-6B21-43F1-98E5-12C86321B280}|demo2001.csproj|c:\\users\\prdb\\source\\repos\\demo2001\\mainwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{60D281A7-6B21-43F1-98E5-12C86321B280}|demo2001.csproj|solutionrelative:mainwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -61,28 +66,27 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Microsoft.Common.CurrentVersion.targets",
-              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
-              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
-              "ViewState": "AgIAAK4UAAAAAAAAAAArwNEUAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2025-01-30T10:41:08.829Z",
+              "DocumentIndex": 2,
+              "Title": "CreateWindow.axaml",
+              "DocumentMoniker": "C:\\Users\\prdb\\source\\repos\\demo2001\\CreateWindow.axaml",
+              "RelativeDocumentMoniker": "CreateWindow.axaml",
+              "ToolTip": "C:\\Users\\prdb\\source\\repos\\demo2001\\CreateWindow.axaml*",
+              "RelativeToolTip": "CreateWindow.axaml*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-31T08:36:11.906Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ModeratorWindow.axaml.cs",
-              "DocumentMoniker": "C:\\Users\\prdb\\source\\repos\\demo2001\\roles\\ModeratorWindow.axaml.cs",
-              "RelativeDocumentMoniker": "roles\\ModeratorWindow.axaml.cs",
-              "ToolTip": "C:\\Users\\prdb\\source\\repos\\demo2001\\roles\\ModeratorWindow.axaml.cs",
-              "RelativeToolTip": "roles\\ModeratorWindow.axaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "CreateWindow.axaml.cs",
+              "DocumentMoniker": "C:\\Users\\prdb\\source\\repos\\demo2001\\CreateWindow.axaml.cs",
+              "RelativeDocumentMoniker": "CreateWindow.axaml.cs",
+              "ToolTip": "C:\\Users\\prdb\\source\\repos\\demo2001\\CreateWindow.axaml.cs",
+              "RelativeToolTip": "CreateWindow.axaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-30T08:32:03.726Z",
+              "WhenOpened": "2025-01-31T08:36:11.722Z",
               "EditorCaption": ""
             },
             {
@@ -100,7 +104,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "ParticipantWindow.axaml",
               "DocumentMoniker": "C:\\Users\\prdb\\source\\repos\\demo2001\\roles\\ParticipantWindow.axaml",
               "RelativeDocumentMoniker": "roles\\ParticipantWindow.axaml",
@@ -116,8 +120,8 @@
               "Title": "OrganizerWindow.axaml",
               "DocumentMoniker": "C:\\Users\\prdb\\source\\repos\\demo2001\\roles\\OrganizerWindow.axaml",
               "RelativeDocumentMoniker": "roles\\OrganizerWindow.axaml",
-              "ToolTip": "C:\\Users\\prdb\\source\\repos\\demo2001\\roles\\OrganizerWindow.axaml",
-              "RelativeToolTip": "roles\\OrganizerWindow.axaml",
+              "ToolTip": "C:\\Users\\prdb\\source\\repos\\demo2001\\roles\\OrganizerWindow.axaml*",
+              "RelativeToolTip": "roles\\OrganizerWindow.axaml*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-01-30T08:31:37.772Z",
               "EditorCaption": ""
@@ -130,22 +134,21 @@
               "RelativeDocumentMoniker": "roles\\OrganizerWindow.axaml.cs",
               "ToolTip": "C:\\Users\\prdb\\source\\repos\\demo2001\\roles\\OrganizerWindow.axaml.cs*",
               "RelativeToolTip": "roles\\OrganizerWindow.axaml.cs*",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCsAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwDIAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-30T08:31:37.56Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "AutorisationWindow.axaml",
               "DocumentMoniker": "C:\\Users\\prdb\\source\\repos\\demo2001\\AutorisationWindow.axaml",
               "RelativeDocumentMoniker": "AutorisationWindow.axaml",
               "ToolTip": "C:\\Users\\prdb\\source\\repos\\demo2001\\AutorisationWindow.axaml",
               "RelativeToolTip": "AutorisationWindow.axaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-01-24T09:04:16.037Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-24T09:04:16.037Z"
             },
             {
               "$type": "Document",
@@ -155,26 +158,51 @@
               "RelativeDocumentMoniker": "AutorisationWindow.axaml.cs",
               "ToolTip": "C:\\Users\\prdb\\source\\repos\\demo2001\\AutorisationWindow.axaml.cs",
               "RelativeToolTip": "AutorisationWindow.axaml.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBIAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAgwBwAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-24T09:04:15.803Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.axaml.cs",
+              "DocumentMoniker": "C:\\Users\\prdb\\source\\repos\\demo2001\\MainWindow.axaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.axaml.cs",
+              "ToolTip": "C:\\Users\\prdb\\source\\repos\\demo2001\\MainWindow.axaml.cs",
+              "RelativeToolTip": "MainWindow.axaml.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAgwCAAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T07:39:17.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 8,
+              "Title": "ModeratorWindow.axaml.cs",
+              "DocumentMoniker": "C:\\Users\\prdb\\source\\repos\\demo2001\\roles\\ModeratorWindow.axaml.cs",
+              "RelativeDocumentMoniker": "roles\\ModeratorWindow.axaml.cs",
+              "ToolTip": "C:\\Users\\prdb\\source\\repos\\demo2001\\roles\\ModeratorWindow.axaml.cs",
+              "RelativeToolTip": "roles\\ModeratorWindow.axaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T08:32:03.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "ModeratorWindow.axaml",
               "DocumentMoniker": "C:\\Users\\prdb\\source\\repos\\demo2001\\roles\\ModeratorWindow.axaml",
               "RelativeDocumentMoniker": "roles\\ModeratorWindow.axaml",
               "ToolTip": "C:\\Users\\prdb\\source\\repos\\demo2001\\roles\\ModeratorWindow.axaml",
               "RelativeToolTip": "roles\\ModeratorWindow.axaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-01-30T09:49:03.419Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-30T09:49:03.419Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "MainWindow.axaml",
               "DocumentMoniker": "C:\\Users\\prdb\\source\\repos\\demo2001\\MainWindow.axaml",
               "RelativeDocumentMoniker": "MainWindow.axaml",
@@ -182,18 +210,6 @@
               "RelativeToolTip": "MainWindow.axaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-01-22T07:39:20.218Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "MainWindow.axaml.cs",
-              "DocumentMoniker": "C:\\Users\\prdb\\source\\repos\\demo2001\\MainWindow.axaml.cs",
-              "RelativeDocumentMoniker": "MainWindow.axaml.cs",
-              "ToolTip": "C:\\Users\\prdb\\source\\repos\\demo2001\\MainWindow.axaml.cs",
-              "RelativeToolTip": "MainWindow.axaml.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-22T07:39:17.276Z"
             }
           ]
         }
